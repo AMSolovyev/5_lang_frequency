@@ -1,6 +1,6 @@
 # Lang_frequency
 
-There are a lot of words in the text. The script looks for the most popular words in the text and print them.
+There are a lot of words in the text. The script ```lang_frequency.py``` looks for the most popular words in the text ```your_book.txt``` and print them.
 
 # Quickstart
 
@@ -45,5 +45,8 @@ You can get English words like this:
   that  - repeates    3 times
   car  - repeates    3 times
   ```
+  
+# Project Goals
+
   The code is written for educational purposes. Training course for web-developers -
 [DEVMAN.org](https://devman.org)
