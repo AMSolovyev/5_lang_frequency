@@ -9,7 +9,7 @@ def load_text(file_path):
 
 
 def get_most_frequency_words(text):
-    word_list = text.split(' ')
+    word_list = text.lower().split(' ')
     words_list = []
     words_list.append(word_list)
     word_count = collections.Counter(word_list)
